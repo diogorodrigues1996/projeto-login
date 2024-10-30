@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@media screen and (min-widht: 728px) and (max-widht:992px) {
+    section#login{
+        width: 90vw;
+    }
+
+    section#imagem{
+        float: right;
+        width: 50%;
+    }
+    
+}
